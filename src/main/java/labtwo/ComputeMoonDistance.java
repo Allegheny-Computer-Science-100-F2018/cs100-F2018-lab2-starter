@@ -35,7 +35,7 @@ public class ComputeMoonDistance {
     // note that you are computing the yards to the moon
 
     // TODO: compute the yards to the moon
-    yardsToMoon = milesToMoon * yardsPerMile;
+
     // output the declared values stored in variables
     System.out.println("Distance to the moon in miles: " + milesToMoon);
     System.out.println("Number of miles in a yard: " + yardsPerMile);
